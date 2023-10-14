@@ -1,2 +1,3 @@
 # tarea1
-Crear cuenta en GitHub y crear "Hola Mundo" y conectar con la comunidad en redes sociales. Dos opciones a elegir
+Crear una cuenta en GitHub y crear un "Hola Mundo" en el lenguaje Python.
+Conectar con la comunidad en redes sociales.
